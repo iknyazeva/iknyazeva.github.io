@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-04-06 15:40:56
+title:  "Welcome to my site"
 categories: jekyll update
 ---
 
@@ -17,6 +16,7 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+$$E = mc^2$$
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
