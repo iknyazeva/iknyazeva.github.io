@@ -10,5 +10,7 @@ gems:
 
 #Others
 markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 theme: jekyll-theme-architect
